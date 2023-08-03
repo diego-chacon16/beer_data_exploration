@@ -1,3 +1,3 @@
 # Beer Reviews: Data Exploration
 
-![Giphy](https://media.giphy.com/media/bIEzoZX0qJaG6s6frc/giphy-downsized-large.gif)
+<img src = "https://media.giphy.com/media/CfwvukeZK1LujFD70u/giphy.gif" width = "500" height = "250"/>
