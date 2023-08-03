@@ -2,8 +2,7 @@
 
 <img src = "https://media.giphy.com/media/t2sKa4JKNW9DawxAYi/giphy.gif" width = "400" height = "250"/>
 
-### Project Purpose
-
+## Project Purpose
 #### Find Key Insights utilizing the beer dataset
 
 + Which Breweries produce the strongest beer?
@@ -14,8 +13,7 @@
 + Is there a clear favourite beer based on the reviews written by the customers?
 + How does the written review align with the overall reviews? Is there consistency?
 
-### Data Description
-
+## Data Description
 #### Data Columns
 
 + beer_ABV: Alcohol by volume
