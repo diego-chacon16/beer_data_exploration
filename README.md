@@ -9,10 +9,10 @@
 + Which Breweries produce the strongest beer?
 + Which beers enjoyed the highest ratings?
 + What seem to be the most important factors when users rate beers?
-+ Is there a specific beer style that is preferred among 
-
-If you were to recommend 3 beers to your friends based on this data, which ones would you recommend?
-Which beer style seems to be the favourite based on the reviews written by users? How does written reviews compare to overall review score for the beer style?
++ Is there a specific beer style that is preferred among customers/reviewers?
++ Based on the insights, what beers would I recommend my friends to my friends?
++ Is there a clear favourite beer based on the reviews written by the customers?
++ How does the written review align with the overall reviews? Is there consistency?
 
 ### Data Description
 
