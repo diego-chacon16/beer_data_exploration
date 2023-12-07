@@ -15,26 +15,30 @@
 + __Strongest Beers by Brewery__: Identify breweries producing the strongest beers based on Alcohol by Volume (ABV).
 + __Top-Rated Beers__: Determine which beers have received the highest overall ratings.
 + __Factors Influencing Beer Ratings__: Investigate the most important factors affecting user ratings, including appearance, palette, taste, and aroma.
-+ **Preferred Beer Styles**: Identify customer and reviewer preferences for specific beer styles.
-+ Beer Recommendations: Recommend beers based on insights, offering personalized suggestions to friends.
-+ Customer-Favorite Beers: Uncover if there is a clear favorite beer among customers based on reviews.
-+ Consistency in Reviews: Analyze the alignment of written reviews with overall ratings and assess consistency.
++ __Preferred Beer Styles__: Identify customer and reviewer preferences for specific beer styles.
++ __Beer Recommendations__: Recommend beers based on insights, offering personalized suggestions to friends.
++ __Customer-Favorite Beers__: Uncover if there is a clear favorite beer among customers based on reviews.
++ __Consistency in Reviews__: Analyze the alignment of written reviews with overall ratings and assess consistency.
 
 ## Data Description
 #### Data Columns
 
-+ beer_ABV: Alcohol by volume
-+ beer_beerId: Beer ID
-+ beer_brewerId: Beer brewer ID
-+ beer_name: Beer name
-+ beer_style: Beer style
-+ review_appearance: Review on the beer's appearance
-+ review_palette: Review on the beer's palette (colours)
-+ review_overall: Overall beer review
-+ review_taste: Review on the beer's taste
-+ review_profileName: Profile name of the reviewer
-+ review_aroma: Review on the beer's aroma
-+ review_text: The full text of the review
-+ review_time: Timestamp when the review was made
++ __beer_ABV__: Alcohol by volume
++ __beer_beerId__: Beer ID
++ __beer_brewerId__: Beer brewer ID
++ __beer_name__: Beer name
++ __beer_style__: Beer style
++ __review_appearance__: Review on the beer's appearance
++ __review_palette__: Review on the beer's palette (colours)
++ __review_overall__: Overall beer review
++ __review_taste__: Review on the beer's taste
++ __review_profileName__: Profile name of the reviewer
++ __review_aroma__: Review on the beer's aroma
++ __review_text__: The full text of the review
++ __review_time__: Timestamp when the review was made
 
-  
+## Acknowledgments
+
+### A big thank you to Evolent Health for making this dataset available to the data community.
+
+## Happy Analyzing! :beers:
