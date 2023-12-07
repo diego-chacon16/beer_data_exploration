@@ -3,15 +3,22 @@
 <img src = "https://media.giphy.com/media/t2sKa4JKNW9DawxAYi/giphy.gif" width = "500" height = "350"/>
 
 ## Project Purpose
-#### Find Key Insights utilizing the beer dataset
 
-+ Which Breweries produce the strongest beer?
-+ Which beers enjoyed the highest ratings?
-+ What seem to be the most important factors when users rate beers?
-+ Is there a specific beer style that is preferred among customers/reviewers?
-+ Based on the insights, what beers would I recommend my friends to my friends?
-+ Is there a clear favourite beer based on the reviews written by the customers?
-+ How does the written review align with the overall reviews? Is there consistency?
+### Uncover key insights from a comprehensive beer dataset provided by Evolent Health
+#### Leveraging data analysis and science techniques, we will explore various aspects of the dataset to answer questions about consumer preference, brewery strengths and user reviews.
+
+## Who is Evolent Health?
+#### Evolent partners with health plans and providers to achieve better outcomes for people with complex health conditions. 
+
+### The project addresses the following key inquiries:
+
++ Strongest Beers by Brewery: Identify breweries producing the strongest beers based on Alcohol by Volume (ABV).
++ Top-Rated Beers: Determine which beers have received the highest overall ratings.
++ Factors Influencing Beer Ratings: Investigate the most important factors affecting user ratings, including appearance, palette, taste, and aroma.
++ Preferred Beer Styles: Identify customer and reviewer preferences for specific beer styles.
++ Beer Recommendations: Recommend beers based on insights, offering personalized suggestions to friends.
++ Customer-Favorite Beers: Uncover if there is a clear favorite beer among customers based on reviews.
++ Consistency in Reviews: Analyze the alignment of written reviews with overall ratings and assess consistency.
 
 ## Data Description
 #### Data Columns
@@ -29,3 +36,5 @@
 + review_aroma: Review on the beer's aroma
 + review_text: The full text of the review
 + review_time: Timestamp when the review was made
+
+  
