@@ -40,6 +40,6 @@ Evolent partners with health plans and providers to achieve better outcomes for 
 
 ## Acknowledgments
 
-## A big thank you to Evolent Health for making this dataset available to the data community.
+A big thank you to Evolent Health for making this dataset available to the data community.
 
 ## Happy Analyzing! :beers:
