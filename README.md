@@ -4,11 +4,12 @@
 
 ## Project Purpose
 
-### 1. Uncover key insights from a comprehensive beer dataset provided by Evolent Health
-### 2. Leveraging data analysis and science techniques, we will explore various aspects of the dataset to answer questions about consumer preference, brewery strengths and user reviews.
+1. Uncover key insights from a comprehensive beer dataset provided by Evolent Health
+2. Leveraging data analysis and science techniques, we will explore various aspects of the dataset to answer questions about consumer preference, brewery strengths and user reviews.
 
 ## Who is Evolent Health?
-## Evolent partners with health plans and providers to achieve better outcomes for people with complex health conditions. 
+
+Evolent partners with health plans and providers to achieve better outcomes for people with complex health conditions. 
 
 ### The project addresses the following key inquiries:
 
