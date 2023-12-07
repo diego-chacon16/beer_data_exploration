@@ -8,7 +8,7 @@
 ### 2. Leveraging data analysis and science techniques, we will explore various aspects of the dataset to answer questions about consumer preference, brewery strengths and user reviews.
 
 ## Who is Evolent Health?
-## A: Evolent partners with health plans and providers to achieve better outcomes for people with complex health conditions. 
+## Evolent partners with health plans and providers to achieve better outcomes for people with complex health conditions. 
 
 ### The project addresses the following key inquiries:
 
@@ -39,6 +39,6 @@
 
 ## Acknowledgments
 
-### A big thank you to Evolent Health for making this dataset available to the data community.
+## A big thank you to Evolent Health for making this dataset available to the data community.
 
 ## Happy Analyzing! :beers:
